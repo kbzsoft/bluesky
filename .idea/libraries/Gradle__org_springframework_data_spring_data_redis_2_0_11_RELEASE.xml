@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.data:spring-data-redis:2.0.11.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/software/gradle-4.8.1/data/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/2.0.11.RELEASE/8125839e776abd60181dc782892985b3e293aac7/spring-data-redis-2.0.11.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/software/gradle-4.8.1/data/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/2.0.11.RELEASE/422ca14ce09ce818f81ebd72c4d99a7e0d18c3d8/spring-data-redis-2.0.11.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
